@@ -1,0 +1,100 @@
+{"timestamp": "2024-12-02 16:26:28.300", "level": "INFO", "user_id": 1013, "endpoint": "/api/users", "status_code": 400, "response_time": 0.513}
+{"timestamp": "2024-12-02 16:28:29.229", "level": "INFO", "user_id": 1009, "endpoint": "/api/auth", "status_code": 200, "response_time": 1.0}
+{"timestamp": "2024-12-02 16:29:04.634", "level": "INFO", "user_id": 1017, "endpoint": "/api/users", "status_code": 201, "response_time": 1.54}
+{"timestamp": "2024-12-02 16:30:45.193", "level": "INFO", "user_id": 1012, "endpoint": "/api/auth", "status_code": 200, "response_time": 1.782}
+{"timestamp": "2024-12-02 16:31:03.867", "level": "INFO", "user_id": 1001, "endpoint": "/api/auth", "status_code": 201, "response_time": 0.606}
+{"timestamp": "2024-12-02 16:32:55.199", "level": "INFO", "user_id": 1003, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.146}
+{"timestamp": "2024-12-02 16:33:59.990", "level": "INFO", "user_id": 1011, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.448}
+{"timestamp": "2024-12-02 16:34:45.448", "level": "INFO", "user_id": 1005, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.546}
+{"timestamp": "2024-12-02 16:36:01.707", "level": "ERROR", "user_id": 1005, "endpoint": "/api/auth", "status_code": 503, "response_time": 1.087, "error_message": "Database connection failed"}
+{"timestamp": "2024-12-02 16:36:21.261", "level": "INFO", "user_id": 1012, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.199}
+{"timestamp": "2024-12-02 16:36:52.064", "level": "INFO", "user_id": 1007, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.142}
+{"timestamp": "2024-12-02 16:38:18.546", "level": "ERROR", "user_id": 1005, "endpoint": "/api/orders", "status_code": 401, "response_time": 1.045, "error_message": "Authentication failed"}
+{"timestamp": "2024-12-02 16:38:41.301", "level": "INFO", "user_id": 1014, "endpoint": "/api/users", "status_code": 201, "response_time": 1.961}
+{"timestamp": "2024-12-02 16:40:27.380", "level": "INFO", "user_id": 1017, "endpoint": "/api/products", "status_code": 201, "response_time": 1.771}
+{"timestamp": "2024-12-02 16:41:38.622", "level": "INFO", "user_id": 1010, "endpoint": "/api/users", "status_code": 400, "response_time": 0.899}
+{"timestamp": "2024-12-02 16:43:26.717", "level": "INFO", "user_id": 1015, "endpoint": "/api/auth", "status_code": 400, "response_time": 0.477}
+{"timestamp": "2024-12-02 16:44:07.282", "level": "INFO", "user_id": 1009, "endpoint": "/api/products", "status_code": 200, "response_time": 0.532}
+{"timestamp": "2024-12-02 16:45:17.082", "level": "INFO", "user_id": 1015, "endpoint": "/api/orders", "status_code": 201, "response_time": 1.793}
+{"timestamp": "2024-12-02 16:45:19.852", "level": "ERROR", "user_id": 1006, "endpoint": "/api/products", "status_code": 503, "response_time": 1.857, "error_message": "Database connection failed"}
+{"timestamp": "2024-12-02 16:46:59.345", "level": "INFO", "user_id": 1016, "endpoint": "/api/products", "status_code": 400, "response_time": 1.523}
+{"timestamp": "2024-12-02 16:47:39.693", "level": "ERROR", "user_id": 1010, "endpoint": "/api/users", "status_code": 500, "response_time": 1.677, "error_message": "Invalid request payload"}
+{"timestamp": "2024-12-02 16:49:45.074", "level": "INFO", "user_id": 1018, "endpoint": "/api/orders", "status_code": 201, "response_time": 1.716}
+{"timestamp": "2024-12-02 16:49:54.998", "level": "INFO", "user_id": 1005, "endpoint": "/api/orders", "status_code": 201, "response_time": 0.619}
+{"timestamp": "2024-12-02 16:51:03.495", "level": "INFO", "user_id": 1013, "endpoint": "/api/products", "status_code": 400, "response_time": 0.914}
+{"timestamp": "2024-12-02 16:51:46.868", "level": "ERROR", "user_id": 1012, "endpoint": "/api/users", "status_code": 401, "response_time": 0.246, "error_message": "Authentication failed"}
+{"timestamp": "2024-12-02 16:51:52.092", "level": "INFO", "user_id": 1019, "endpoint": "/api/products", "status_code": 201, "response_time": 1.611}
+{"timestamp": "2024-12-02 16:53:45.412", "level": "INFO", "user_id": 1011, "endpoint": "/api/users", "status_code": 201, "response_time": 1.101}
+{"timestamp": "2024-12-02 16:54:46.543", "level": "ERROR", "user_id": 1005, "endpoint": "/api/users", "status_code": 401, "response_time": 0.579, "error_message": "Connection timeout"}
+{"timestamp": "2024-12-02 16:55:48.164", "level": "INFO", "user_id": 1000, "endpoint": "/api/orders", "status_code": 200, "response_time": 1.902}
+{"timestamp": "2024-12-02 16:57:36.891", "level": "INFO", "user_id": 1008, "endpoint": "/api/orders", "status_code": 201, "response_time": 1.081}
+{"timestamp": "2024-12-02 17:00:27.926", "level": "ERROR", "user_id": 1019, "endpoint": "/api/users", "status_code": 403, "response_time": 1.138, "error_message": "Database connection failed"}
+{"timestamp": "2024-12-02 17:00:32.852", "level": "INFO", "user_id": 1017, "endpoint": "/api/auth", "status_code": 200, "response_time": 0.263}
+{"timestamp": "2024-12-02 17:01:50.918", "level": "ERROR", "user_id": 1011, "endpoint": "/api/orders", "status_code": 500, "response_time": 1.284, "error_message": "Database connection failed"}
+{"timestamp": "2024-12-02 17:02:10.257", "level": "INFO", "user_id": 1015, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.037}
+{"timestamp": "2024-12-02 17:02:50.747", "level": "INFO", "user_id": 1015, "endpoint": "/api/users", "status_code": 200, "response_time": 0.998}
+{"timestamp": "2024-12-02 17:02:51.930", "level": "INFO", "user_id": 1018, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.881}
+{"timestamp": "2024-12-02 17:03:11.222", "level": "INFO", "user_id": 1017, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.545}
+{"timestamp": "2024-12-02 17:03:42.816", "level": "INFO", "user_id": 1005, "endpoint": "/api/products", "status_code": 201, "response_time": 0.344}
+{"timestamp": "2024-12-02 17:04:11.421", "level": "INFO", "user_id": 1018, "endpoint": "/api/auth", "status_code": 200, "response_time": 1.702}
+{"timestamp": "2024-12-02 17:06:15.625", "level": "INFO", "user_id": 1016, "endpoint": "/api/products", "status_code": 201, "response_time": 0.651}
+{"timestamp": "2024-12-02 17:08:48.455", "level": "ERROR", "user_id": 1002, "endpoint": "/api/auth", "status_code": 500, "response_time": 0.355, "error_message": "Rate limit exceeded"}
+{"timestamp": "2024-12-02 17:11:17.138", "level": "INFO", "user_id": 1007, "endpoint": "/api/products", "status_code": 201, "response_time": 1.402}
+{"timestamp": "2024-12-02 17:11:31.024", "level": "INFO", "user_id": 1002, "endpoint": "/api/orders", "status_code": 201, "response_time": 1.543}
+{"timestamp": "2024-12-02 17:12:44.079", "level": "INFO", "user_id": 1012, "endpoint": "/api/users", "status_code": 200, "response_time": 1.818}
+{"timestamp": "2024-12-02 17:14:24.605", "level": "INFO", "user_id": 1006, "endpoint": "/api/orders", "status_code": 400, "response_time": 1.672}
+{"timestamp": "2024-12-02 17:15:43.203", "level": "INFO", "user_id": 1004, "endpoint": "/api/auth", "status_code": 201, "response_time": 0.451}
+{"timestamp": "2024-12-02 17:18:18.937", "level": "INFO", "user_id": 1008, "endpoint": "/api/orders", "status_code": 201, "response_time": 0.105}
+{"timestamp": "2024-12-02 17:20:45.083", "level": "INFO", "user_id": 1015, "endpoint": "/api/orders", "status_code": 400, "response_time": 1.068}
+{"timestamp": "2024-12-02 17:21:22.983", "level": "INFO", "user_id": 1009, "endpoint": "/api/auth", "status_code": 200, "response_time": 1.797}
+{"timestamp": "2024-12-02 17:21:55.715", "level": "INFO", "user_id": 1014, "endpoint": "/api/orders", "status_code": 200, "response_time": 1.543}
+{"timestamp": "2024-12-02 17:22:39.104", "level": "INFO", "user_id": 1014, "endpoint": "/api/auth", "status_code": 400, "response_time": 0.178}
+{"timestamp": "2024-12-02 17:23:54.841", "level": "INFO", "user_id": 1002, "endpoint": "/api/users", "status_code": 200, "response_time": 0.55}
+{"timestamp": "2024-12-02 17:23:56.654", "level": "INFO", "user_id": 1016, "endpoint": "/api/products", "status_code": 400, "response_time": 1.402}
+{"timestamp": "2024-12-02 17:23:57.433", "level": "ERROR", "user_id": 1005, "endpoint": "/api/auth", "status_code": 404, "response_time": 1.544, "error_message": "Authentication failed"}
+{"timestamp": "2024-12-02 17:24:46.156", "level": "INFO", "user_id": 1002, "endpoint": "/api/products", "status_code": 400, "response_time": 1.678}
+{"timestamp": "2024-12-02 17:25:31.852", "level": "INFO", "user_id": 1003, "endpoint": "/api/users", "status_code": 201, "response_time": 1.976}
+{"timestamp": "2024-12-02 17:25:58.154", "level": "INFO", "user_id": 1008, "endpoint": "/api/products", "status_code": 400, "response_time": 0.332}
+{"timestamp": "2024-12-02 17:27:36.987", "level": "ERROR", "user_id": 1010, "endpoint": "/api/orders", "status_code": 500, "response_time": 0.483, "error_message": "Authentication failed"}
+{"timestamp": "2024-12-02 17:28:42.908", "level": "INFO", "user_id": 1001, "endpoint": "/api/orders", "status_code": 200, "response_time": 1.738}
+{"timestamp": "2024-12-02 17:29:00.575", "level": "INFO", "user_id": 1007, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.504}
+{"timestamp": "2024-12-02 17:29:25.309", "level": "INFO", "user_id": 1013, "endpoint": "/api/auth", "status_code": 201, "response_time": 0.344}
+{"timestamp": "2024-12-02 17:29:36.995", "level": "INFO", "user_id": 1005, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.949}
+{"timestamp": "2024-12-02 17:30:14.104", "level": "ERROR", "user_id": 1017, "endpoint": "/api/users", "status_code": 404, "response_time": 0.34, "error_message": "Database connection failed"}
+{"timestamp": "2024-12-02 17:36:17.973", "level": "INFO", "user_id": 1007, "endpoint": "/api/users", "status_code": 200, "response_time": 0.492}
+{"timestamp": "2024-12-02 17:36:48.142", "level": "INFO", "user_id": 1017, "endpoint": "/api/users", "status_code": 201, "response_time": 1.197}
+{"timestamp": "2024-12-02 17:38:28.770", "level": "ERROR", "user_id": 1002, "endpoint": "/api/products", "status_code": 401, "response_time": 0.131, "error_message": "Rate limit exceeded"}
+{"timestamp": "2024-12-02 17:38:46.115", "level": "INFO", "user_id": 1014, "endpoint": "/api/orders", "status_code": 201, "response_time": 0.189}
+{"timestamp": "2024-12-02 17:39:08.619", "level": "INFO", "user_id": 1014, "endpoint": "/api/auth", "status_code": 201, "response_time": 0.361}
+{"timestamp": "2024-12-02 17:39:30.202", "level": "INFO", "user_id": 1014, "endpoint": "/api/auth", "status_code": 400, "response_time": 0.992}
+{"timestamp": "2024-12-02 17:40:46.145", "level": "ERROR", "user_id": 1015, "endpoint": "/api/users", "status_code": 401, "response_time": 0.183, "error_message": "Rate limit exceeded"}
+{"timestamp": "2024-12-02 17:41:04.559", "level": "INFO", "user_id": 1013, "endpoint": "/api/orders", "status_code": 201, "response_time": 1.094}
+{"timestamp": "2024-12-02 17:42:10.922", "level": "INFO", "user_id": 1000, "endpoint": "/api/products", "status_code": 201, "response_time": 1.944}
+{"timestamp": "2024-12-02 17:43:48.903", "level": "INFO", "user_id": 1010, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.788}
+{"timestamp": "2024-12-02 17:44:15.531", "level": "ERROR", "user_id": 1010, "endpoint": "/api/users", "status_code": 401, "response_time": 0.73, "error_message": "Rate limit exceeded"}
+{"timestamp": "2024-12-02 17:46:00.173", "level": "INFO", "user_id": 1003, "endpoint": "/api/users", "status_code": 400, "response_time": 1.038}
+{"timestamp": "2024-12-02 17:46:06.096", "level": "INFO", "user_id": 1017, "endpoint": "/api/users", "status_code": 201, "response_time": 0.877}
+{"timestamp": "2024-12-02 17:46:49.967", "level": "INFO", "user_id": 1007, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.106}
+{"timestamp": "2024-12-02 17:48:04.414", "level": "INFO", "user_id": 1016, "endpoint": "/api/users", "status_code": 200, "response_time": 0.717}
+{"timestamp": "2024-12-02 17:48:27.253", "level": "INFO", "user_id": 1004, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.474}
+{"timestamp": "2024-12-02 17:50:58.908", "level": "INFO", "user_id": 1018, "endpoint": "/api/products", "status_code": 201, "response_time": 0.339}
+{"timestamp": "2024-12-02 17:51:06.565", "level": "INFO", "user_id": 1010, "endpoint": "/api/users", "status_code": 400, "response_time": 0.238}
+{"timestamp": "2024-12-02 17:52:23.477", "level": "INFO", "user_id": 1000, "endpoint": "/api/auth", "status_code": 201, "response_time": 1.383}
+{"timestamp": "2024-12-02 17:52:45.533", "level": "INFO", "user_id": 1016, "endpoint": "/api/auth", "status_code": 400, "response_time": 0.579}
+{"timestamp": "2024-12-02 17:53:09.331", "level": "INFO", "user_id": 1003, "endpoint": "/api/users", "status_code": 400, "response_time": 1.881}
+{"timestamp": "2024-12-02 17:54:21.821", "level": "INFO", "user_id": 1000, "endpoint": "/api/users", "status_code": 201, "response_time": 0.214}
+{"timestamp": "2024-12-02 17:56:08.243", "level": "INFO", "user_id": 1009, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.887}
+{"timestamp": "2024-12-02 17:58:43.635", "level": "INFO", "user_id": 1005, "endpoint": "/api/orders", "status_code": 200, "response_time": 1.821}
+{"timestamp": "2024-12-02 17:59:47.116", "level": "INFO", "user_id": 1003, "endpoint": "/api/auth", "status_code": 200, "response_time": 0.311}
+{"timestamp": "2024-12-02 18:03:59.633", "level": "INFO", "user_id": 1009, "endpoint": "/api/products", "status_code": 400, "response_time": 0.366}
+{"timestamp": "2024-12-02 18:05:09.986", "level": "INFO", "user_id": 1016, "endpoint": "/api/users", "status_code": 200, "response_time": 1.729}
+{"timestamp": "2024-12-02 18:07:58.107", "level": "INFO", "user_id": 1010, "endpoint": "/api/products", "status_code": 201, "response_time": 0.912}
+{"timestamp": "2024-12-02 18:08:07.724", "level": "INFO", "user_id": 1009, "endpoint": "/api/orders", "status_code": 200, "response_time": 1.256}
+{"timestamp": "2024-12-02 18:10:16.885", "level": "INFO", "user_id": 1015, "endpoint": "/api/orders", "status_code": 400, "response_time": 1.31}
+{"timestamp": "2024-12-02 18:12:22.601", "level": "INFO", "user_id": 1006, "endpoint": "/api/products", "status_code": 201, "response_time": 1.134}
+{"timestamp": "2024-12-02 18:13:15.926", "level": "INFO", "user_id": 1013, "endpoint": "/api/products", "status_code": 400, "response_time": 1.071}
+{"timestamp": "2024-12-02 18:13:34.614", "level": "INFO", "user_id": 1008, "endpoint": "/api/auth", "status_code": 400, "response_time": 0.494}
+{"timestamp": "2024-12-02 18:18:32.378", "level": "INFO", "user_id": 1016, "endpoint": "/api/orders", "status_code": 200, "response_time": 0.35}
+{"timestamp": "2024-12-02 18:19:01.118", "level": "ERROR", "user_id": 1000, "endpoint": "/api/auth", "status_code": 404, "response_time": 1.186, "error_message": "Rate limit exceeded"}
+{"timestamp": "2024-12-02 18:25:25.516", "level": "INFO", "user_id": 1010, "endpoint": "/api/users", "status_code": 200, "response_time": 1.221}
+{"timestamp": "2024-12-02 18:26:05.330", "level": "INFO", "user_id": 1002, "endpoint": "/api/auth", "status_code": 400, "response_time": 1.913}

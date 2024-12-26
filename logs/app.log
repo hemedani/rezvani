@@ -1,0 +1,100 @@
+[2024-12-02 16:26:28.300] INFO Request processed - UserID=1011 Endpoint=/api/auth StatusCode=400 ResponseTime=1.062ms
+[2024-12-02 16:28:29.229] INFO Request processed - UserID=1012 Endpoint=/api/auth StatusCode=200 ResponseTime=1.744ms
+[2024-12-02 16:29:04.634] ERROR Request processed - UserID=1018 Endpoint=/api/auth StatusCode=401 ResponseTime=1.859ms ErrorMsg='Authentication failed'
+[2024-12-02 16:30:45.193] ERROR Request processed - UserID=1006 Endpoint=/api/users StatusCode=403 ResponseTime=0.941ms ErrorMsg='Connection timeout'
+[2024-12-02 16:31:03.867] ERROR Request processed - UserID=1014 Endpoint=/api/products StatusCode=404 ResponseTime=0.563ms ErrorMsg='Database connection failed'
+[2024-12-02 16:32:55.199] INFO Request processed - UserID=1002 Endpoint=/api/users StatusCode=201 ResponseTime=0.546ms
+[2024-12-02 16:33:59.990] INFO Request processed - UserID=1007 Endpoint=/api/users StatusCode=201 ResponseTime=0.159ms
+[2024-12-02 16:34:45.448] INFO Request processed - UserID=1005 Endpoint=/api/orders StatusCode=400 ResponseTime=1.879ms
+[2024-12-02 16:36:01.707] ERROR Request processed - UserID=1001 Endpoint=/api/orders StatusCode=404 ResponseTime=1.113ms ErrorMsg='Connection timeout'
+[2024-12-02 16:36:21.261] INFO Request processed - UserID=1012 Endpoint=/api/users StatusCode=400 ResponseTime=1.925ms
+[2024-12-02 16:36:52.064] INFO Request processed - UserID=1012 Endpoint=/api/orders StatusCode=400 ResponseTime=1.733ms
+[2024-12-02 16:38:18.546] INFO Request processed - UserID=1014 Endpoint=/api/users StatusCode=200 ResponseTime=1.483ms
+[2024-12-02 16:38:41.301] INFO Request processed - UserID=1008 Endpoint=/api/auth StatusCode=400 ResponseTime=0.144ms
+[2024-12-02 16:40:27.380] INFO Request processed - UserID=1006 Endpoint=/api/users StatusCode=200 ResponseTime=0.3ms
+[2024-12-02 16:41:38.622] INFO Request processed - UserID=1017 Endpoint=/api/products StatusCode=400 ResponseTime=0.168ms
+[2024-12-02 16:43:26.717] INFO Request processed - UserID=1007 Endpoint=/api/orders StatusCode=400 ResponseTime=1.766ms
+[2024-12-02 16:44:07.282] ERROR Request processed - UserID=1002 Endpoint=/api/products StatusCode=404 ResponseTime=1.058ms ErrorMsg='Connection timeout'
+[2024-12-02 16:45:17.082] INFO Request processed - UserID=1013 Endpoint=/api/orders StatusCode=400 ResponseTime=0.189ms
+[2024-12-02 16:45:19.852] INFO Request processed - UserID=1002 Endpoint=/api/orders StatusCode=200 ResponseTime=0.363ms
+[2024-12-02 16:46:59.345] INFO Request processed - UserID=1000 Endpoint=/api/auth StatusCode=200 ResponseTime=1.695ms
+[2024-12-02 16:47:39.693] ERROR Request processed - UserID=1003 Endpoint=/api/users StatusCode=500 ResponseTime=0.271ms ErrorMsg='Invalid request payload'
+[2024-12-02 16:49:45.074] INFO Request processed - UserID=1017 Endpoint=/api/users StatusCode=200 ResponseTime=1.267ms
+[2024-12-02 16:49:54.998] ERROR Request processed - UserID=1006 Endpoint=/api/auth StatusCode=404 ResponseTime=0.921ms ErrorMsg='Connection timeout'
+[2024-12-02 16:51:03.495] INFO Request processed - UserID=1008 Endpoint=/api/orders StatusCode=201 ResponseTime=1.616ms
+[2024-12-02 16:51:46.868] ERROR Request processed - UserID=1013 Endpoint=/api/users StatusCode=503 ResponseTime=0.213ms ErrorMsg='Rate limit exceeded'
+[2024-12-02 16:51:52.092] INFO Request processed - UserID=1004 Endpoint=/api/auth StatusCode=200 ResponseTime=1.162ms
+[2024-12-02 16:53:45.412] INFO Request processed - UserID=1005 Endpoint=/api/users StatusCode=400 ResponseTime=1.38ms
+[2024-12-02 16:54:46.543] INFO Request processed - UserID=1006 Endpoint=/api/orders StatusCode=400 ResponseTime=1.95ms
+[2024-12-02 16:55:48.164] INFO Request processed - UserID=1008 Endpoint=/api/products StatusCode=201 ResponseTime=1.219ms
+[2024-12-02 16:57:36.891] INFO Request processed - UserID=1001 Endpoint=/api/users StatusCode=400 ResponseTime=1.699ms
+[2024-12-02 17:00:27.926] INFO Request processed - UserID=1017 Endpoint=/api/auth StatusCode=200 ResponseTime=0.209ms
+[2024-12-02 17:00:32.852] ERROR Request processed - UserID=1014 Endpoint=/api/users StatusCode=401 ResponseTime=0.433ms ErrorMsg='Database connection failed'
+[2024-12-02 17:01:50.918] ERROR Request processed - UserID=1007 Endpoint=/api/products StatusCode=503 ResponseTime=1.75ms ErrorMsg='Connection timeout'
+[2024-12-02 17:02:10.257] INFO Request processed - UserID=1013 Endpoint=/api/auth StatusCode=200 ResponseTime=1.649ms
+[2024-12-02 17:02:50.747] INFO Request processed - UserID=1017 Endpoint=/api/auth StatusCode=201 ResponseTime=0.12ms
+[2024-12-02 17:02:51.930] INFO Request processed - UserID=1014 Endpoint=/api/orders StatusCode=201 ResponseTime=0.962ms
+[2024-12-02 17:03:11.222] INFO Request processed - UserID=1000 Endpoint=/api/products StatusCode=201 ResponseTime=0.27ms
+[2024-12-02 17:03:42.816] INFO Request processed - UserID=1015 Endpoint=/api/products StatusCode=201 ResponseTime=1.092ms
+[2024-12-02 17:04:11.421] ERROR Request processed - UserID=1006 Endpoint=/api/auth StatusCode=404 ResponseTime=1.053ms ErrorMsg='Rate limit exceeded'
+[2024-12-02 17:06:15.625] INFO Request processed - UserID=1019 Endpoint=/api/users StatusCode=200 ResponseTime=1.092ms
+[2024-12-02 17:08:48.455] INFO Request processed - UserID=1006 Endpoint=/api/products StatusCode=400 ResponseTime=0.722ms
+[2024-12-02 17:11:17.138] ERROR Request processed - UserID=1002 Endpoint=/api/orders StatusCode=404 ResponseTime=1.711ms ErrorMsg='Invalid request payload'
+[2024-12-02 17:11:31.024] INFO Request processed - UserID=1016 Endpoint=/api/products StatusCode=201 ResponseTime=0.191ms
+[2024-12-02 17:12:44.079] INFO Request processed - UserID=1005 Endpoint=/api/products StatusCode=201 ResponseTime=1.694ms
+[2024-12-02 17:14:24.605] INFO Request processed - UserID=1017 Endpoint=/api/products StatusCode=200 ResponseTime=1.927ms
+[2024-12-02 17:15:43.203] INFO Request processed - UserID=1002 Endpoint=/api/users StatusCode=400 ResponseTime=0.474ms
+[2024-12-02 17:18:18.937] INFO Request processed - UserID=1004 Endpoint=/api/products StatusCode=201 ResponseTime=1.607ms
+[2024-12-02 17:20:45.083] INFO Request processed - UserID=1008 Endpoint=/api/users StatusCode=201 ResponseTime=0.193ms
+[2024-12-02 17:21:22.983] INFO Request processed - UserID=1008 Endpoint=/api/auth StatusCode=400 ResponseTime=0.187ms
+[2024-12-02 17:21:55.715] INFO Request processed - UserID=1006 Endpoint=/api/auth StatusCode=400 ResponseTime=1.591ms
+[2024-12-02 17:22:39.104] INFO Request processed - UserID=1005 Endpoint=/api/orders StatusCode=200 ResponseTime=1.728ms
+[2024-12-02 17:23:54.841] INFO Request processed - UserID=1011 Endpoint=/api/products StatusCode=200 ResponseTime=0.417ms
+[2024-12-02 17:23:56.654] INFO Request processed - UserID=1008 Endpoint=/api/orders StatusCode=400 ResponseTime=1.656ms
+[2024-12-02 17:23:57.433] ERROR Request processed - UserID=1001 Endpoint=/api/orders StatusCode=403 ResponseTime=1.57ms ErrorMsg='Rate limit exceeded'
+[2024-12-02 17:24:46.156] INFO Request processed - UserID=1007 Endpoint=/api/products StatusCode=400 ResponseTime=0.497ms
+[2024-12-02 17:25:31.852] ERROR Request processed - UserID=1010 Endpoint=/api/orders StatusCode=401 ResponseTime=1.16ms ErrorMsg='Authentication failed'
+[2024-12-02 17:25:58.154] INFO Request processed - UserID=1014 Endpoint=/api/auth StatusCode=200 ResponseTime=0.261ms
+[2024-12-02 17:27:36.987] INFO Request processed - UserID=1014 Endpoint=/api/orders StatusCode=400 ResponseTime=1.755ms
+[2024-12-02 17:28:42.908] INFO Request processed - UserID=1015 Endpoint=/api/products StatusCode=400 ResponseTime=0.422ms
+[2024-12-02 17:29:00.575] INFO Request processed - UserID=1016 Endpoint=/api/orders StatusCode=200 ResponseTime=0.148ms
+[2024-12-02 17:29:25.309] INFO Request processed - UserID=1010 Endpoint=/api/auth StatusCode=201 ResponseTime=0.956ms
+[2024-12-02 17:29:36.995] ERROR Request processed - UserID=1007 Endpoint=/api/orders StatusCode=503 ResponseTime=1.49ms ErrorMsg='Invalid request payload'
+[2024-12-02 17:30:14.104] INFO Request processed - UserID=1009 Endpoint=/api/orders StatusCode=200 ResponseTime=1.682ms
+[2024-12-02 17:36:17.973] INFO Request processed - UserID=1004 Endpoint=/api/orders StatusCode=201 ResponseTime=0.912ms
+[2024-12-02 17:36:48.142] ERROR Request processed - UserID=1010 Endpoint=/api/products StatusCode=500 ResponseTime=0.45ms ErrorMsg='Invalid request payload'
+[2024-12-02 17:38:28.770] INFO Request processed - UserID=1010 Endpoint=/api/auth StatusCode=400 ResponseTime=0.136ms
+[2024-12-02 17:38:46.115] ERROR Request processed - UserID=1000 Endpoint=/api/orders StatusCode=403 ResponseTime=0.229ms ErrorMsg='Invalid request payload'
+[2024-12-02 17:39:08.619] INFO Request processed - UserID=1002 Endpoint=/api/orders StatusCode=201 ResponseTime=1.366ms
+[2024-12-02 17:39:30.202] INFO Request processed - UserID=1006 Endpoint=/api/products StatusCode=400 ResponseTime=0.909ms
+[2024-12-02 17:40:46.145] INFO Request processed - UserID=1006 Endpoint=/api/users StatusCode=400 ResponseTime=1.086ms
+[2024-12-02 17:41:04.559] INFO Request processed - UserID=1019 Endpoint=/api/users StatusCode=400 ResponseTime=0.531ms
+[2024-12-02 17:42:10.922] INFO Request processed - UserID=1001 Endpoint=/api/orders StatusCode=400 ResponseTime=0.208ms
+[2024-12-02 17:43:48.903] INFO Request processed - UserID=1013 Endpoint=/api/products StatusCode=400 ResponseTime=0.855ms
+[2024-12-02 17:44:15.531] INFO Request processed - UserID=1005 Endpoint=/api/orders StatusCode=201 ResponseTime=1.544ms
+[2024-12-02 17:46:00.173] ERROR Request processed - UserID=1011 Endpoint=/api/users StatusCode=503 ResponseTime=0.13ms ErrorMsg='Invalid request payload'
+[2024-12-02 17:46:06.096] INFO Request processed - UserID=1005 Endpoint=/api/products StatusCode=200 ResponseTime=1.546ms
+[2024-12-02 17:46:49.967] INFO Request processed - UserID=1003 Endpoint=/api/auth StatusCode=201 ResponseTime=1.621ms
+[2024-12-02 17:48:04.414] INFO Request processed - UserID=1017 Endpoint=/api/users StatusCode=200 ResponseTime=1.315ms
+[2024-12-02 17:48:27.253] INFO Request processed - UserID=1011 Endpoint=/api/users StatusCode=201 ResponseTime=0.377ms
+[2024-12-02 17:50:58.908] INFO Request processed - UserID=1010 Endpoint=/api/users StatusCode=200 ResponseTime=1.642ms
+[2024-12-02 17:51:06.565] INFO Request processed - UserID=1010 Endpoint=/api/users StatusCode=201 ResponseTime=1.399ms
+[2024-12-02 17:52:23.477] INFO Request processed - UserID=1003 Endpoint=/api/auth StatusCode=400 ResponseTime=1.636ms
+[2024-12-02 17:52:45.533] INFO Request processed - UserID=1008 Endpoint=/api/auth StatusCode=201 ResponseTime=1.075ms
+[2024-12-02 17:53:09.331] INFO Request processed - UserID=1017 Endpoint=/api/products StatusCode=201 ResponseTime=0.512ms
+[2024-12-02 17:54:21.821] INFO Request processed - UserID=1010 Endpoint=/api/users StatusCode=200 ResponseTime=1.824ms
+[2024-12-02 17:56:08.243] INFO Request processed - UserID=1013 Endpoint=/api/orders StatusCode=200 ResponseTime=0.646ms
+[2024-12-02 17:58:43.635] INFO Request processed - UserID=1012 Endpoint=/api/products StatusCode=201 ResponseTime=1.29ms
+[2024-12-02 17:59:47.116] ERROR Request processed - UserID=1013 Endpoint=/api/products StatusCode=404 ResponseTime=0.232ms ErrorMsg='Invalid request payload'
+[2024-12-02 18:03:59.633] INFO Request processed - UserID=1007 Endpoint=/api/users StatusCode=400 ResponseTime=1.163ms
+[2024-12-02 18:05:09.986] INFO Request processed - UserID=1017 Endpoint=/api/products StatusCode=201 ResponseTime=1.743ms
+[2024-12-02 18:07:58.107] ERROR Request processed - UserID=1008 Endpoint=/api/products StatusCode=404 ResponseTime=1.775ms ErrorMsg='Connection timeout'
+[2024-12-02 18:08:07.724] INFO Request processed - UserID=1005 Endpoint=/api/products StatusCode=200 ResponseTime=0.421ms
+[2024-12-02 18:10:16.885] INFO Request processed - UserID=1004 Endpoint=/api/auth StatusCode=201 ResponseTime=1.656ms
+[2024-12-02 18:12:22.601] INFO Request processed - UserID=1005 Endpoint=/api/products StatusCode=201 ResponseTime=0.173ms
+[2024-12-02 18:13:15.926] INFO Request processed - UserID=1017 Endpoint=/api/orders StatusCode=400 ResponseTime=1.69ms
+[2024-12-02 18:13:34.614] INFO Request processed - UserID=1006 Endpoint=/api/products StatusCode=200 ResponseTime=0.731ms
+[2024-12-02 18:18:32.378] INFO Request processed - UserID=1006 Endpoint=/api/orders StatusCode=200 ResponseTime=0.355ms
+[2024-12-02 18:19:01.118] INFO Request processed - UserID=1018 Endpoint=/api/orders StatusCode=200 ResponseTime=0.419ms
+[2024-12-02 18:25:25.516] INFO Request processed - UserID=1007 Endpoint=/api/products StatusCode=200 ResponseTime=0.766ms
+[2024-12-02 18:26:05.330] INFO Request processed - UserID=1001 Endpoint=/api/auth StatusCode=400 ResponseTime=0.514ms
