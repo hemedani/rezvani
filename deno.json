@@ -1,0 +1,22 @@
+{
+  "tasks": {
+    "aggregate": "deno run --allow-read --allow-env --allow-write ./mod.ts"
+  },
+  "fmt": {
+    "files": {
+      "exclude": [
+        "declaration"
+      ]
+    },
+    "options": {
+      "useTabs": true,
+      "lineWidth": 80,
+      "indentWidth": 4,
+      "semiColons": true,
+      "proseWrap": "preserve"
+    }
+  },
+  "imports": {
+    "@std/fs": "jsr:@std/fs@^1.0.8"
+  }
+}
