@@ -1,13 +1,12 @@
-import { IInputData } from "./types.ts";
+import "jsr:@std/dotenv/load";
+import { processJSONFile } from "./processJSON.ts";
+import { IOutputData } from "./types.ts";
+import { processAggregation } from "./processAggregation.ts";
 
 const logDir = "./logs";
-
-const proccessJSONFile = (text: string) => {
-  const splitedText: IInputData[] = text
-    .split("\n")
-    .filter((item) => item)
-    .map((item) => JSON.parse(item));
-};
+const envTime = Deno.env.get("WINDOW_TIME");
+const windowTime = envTime ? Number(envTime) : 200;
+const outputJSON: IOutputData[] = [];
 
 for await (const dirEntry of Deno.readDir(logDir)) {
   console.log(dirEntry.name);
@@ -15,6 +14,22 @@ for await (const dirEntry of Deno.readDir(logDir)) {
   const text = await Deno.readTextFile(`${logDir}/${dirEntry.name}`);
 
   if (fileType === "json") {
-    proccessJSONFile(text);
+    for (const item of processJSONFile(text)) {
+      processAggregation(item, outputJSON, windowTime);
+    }
   }
 }
+
+/*
+ * 	@LOG @DEBUG @INFO
+ * 	This log written by ::==> {{ `` }}
+ *
+ * 	Please remove your log after debugging
+ */
+console.log(" ============= ");
+console.group("outputJSON ------ ");
+console.log();
+console.info({ outputJSON, ouplength: outputJSON.length }, " ------ ");
+console.log();
+console.groupEnd();
+console.log(" ============= ");

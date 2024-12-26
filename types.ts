@@ -1,13 +1,13 @@
 type Level = "INFO" | "ERROR";
 
 export interface ICommonTypes {
-  timestamp: Date;
   level: Level;
   endpoint: string;
   status_code: number;
 }
 
 export interface IInputData extends ICommonTypes {
+  timestamp: Date;
   user_id: number;
   response_time: number;
 }
